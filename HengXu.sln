@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HengXu", "HengXu\HengXu.csproj", "{153DA0FE-D78A-4C31-B580-764E2B2359A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GuoYi", "GuoYi\GuoYi.vdproj", "{795B7281-F4D8-4CB5-BEAD-5E1E7C5815F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153DA0FE-D78A-4C31-B580-764E2B2359A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153DA0FE-D78A-4C31-B580-764E2B2359A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153DA0FE-D78A-4C31-B580-764E2B2359A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153DA0FE-D78A-4C31-B580-764E2B2359A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795B7281-F4D8-4CB5-BEAD-5E1E7C5815F0}.Debug|Any CPU.ActiveCfg = Debug
+		{795B7281-F4D8-4CB5-BEAD-5E1E7C5815F0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
